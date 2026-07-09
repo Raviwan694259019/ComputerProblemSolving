@@ -1,4 +1,4 @@
-void main() {
+FuelCosts() {
     IO.print("Enter distance (km) : ");
     int distance = Integer.parseInt(IO.readln());
     IO.print("Enter fuel efficiency (km/liter) : ");
